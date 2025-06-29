@@ -1,7 +1,7 @@
 
 # Whack-A-Penguin Game
 
-## Made with Swift, UIKIt & SpriteKit Framework.
+### Made with Swift, UIKIt & SpriteKit Framework.
 
 ### Project 14
 
